@@ -1,7 +1,7 @@
 Package: anemonehack
 Architecture: iphoneos-arm
 Version: 0.19.3
-Section: Tweaks
+Section: Standoff 2
 Maintainer: -Fiosone
 Installed-Size: 496
 Depends: mobilesubstrate
@@ -19,7 +19,7 @@ Author: -Fiosone
 Package: anemonelegit
 Architecture: iphoneos-arm
 Version: 0.19.3
-Section: Tweaks
+Section: Standoff 2
 Maintainer: -fiosone
 Installed-Size: 452
 Depends: mobilesubstrate
