@@ -1,0 +1,18 @@
+Package: anemonehack
+Architecture: iphoneos-arm
+Version: 0.19.3
+Section: Tweaks
+Maintainer: -Fiosone
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: ./debians/AnemoneHack-iphoneos-arm.deb
+Size: 96432
+MD5sum: 62d27fa030eab2c18beb83ec1ddd19d2
+SHA1: 01f4a94d71f609ec5f410c961be9587a0671518f
+SHA256: 5138c0b94e072e4e0352cc82b0742ad8374d34046e23f61109429d11f8b5c581
+SHA512: b0fb181f35097fca65342f39931815edec6266818ea90c7a6adfc64a7b24e779a70e63388a4858764b6028f686c8133d70f3ddb5280edfebf59d018affcd3232
+Homepage: https://discord.gg/f7FCxH3e43
+Description: Anemone By -Fiosone
+Name: Anemone Hack
+Author: -Fiosone
+

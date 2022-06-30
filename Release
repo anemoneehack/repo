@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: casp
+Components: main
+Date: Thu, 30 Jun 2022 17:19:24 +0000
+Description: Free Ios Hack
+Label: Anemone hack
+Origin: Anemone Hack
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 33d5b01f1eab150f4bb6dd7150b884a2              615 Packages
+ f502296b00c817f2e73203db4459e879              453 Packages.bz2
+ b84b777ecf0797fa37b97e3dfeafab3a              443 Packages.gz
+ b44120f0afd33117f0a06691a3019fe1              508 Packages.xz
+ cbf2600c92cf484733d01ff1d60f463c              440 Packages.zst
+ 201568ea553afdea1e37565b3bdb0ec5              193 Release
+SHA1:
+ 0bada1f2a2ebd1b30da354670476c0b7d65708b0              615 Packages
+ 5c1baeff5101efd38188f0c2fed2c1eb0b064167              453 Packages.bz2
+ 3e6644ef880c1c628070510ce12b1c955d90c32d              443 Packages.gz
+ 7a23ee1c0ec50b4ec212931b6c6008a856b40fc5              508 Packages.xz
+ 8d469a99166660cfcea4e573045c82babde10985              440 Packages.zst
+ fe0c8e205048d51a7580eae01261ac4e6bc792ab              193 Release
+SHA256:
+ 404dc3f46a27979b1fa072d131c601067728684d850d24e2bf8579016938d442              615 Packages
+ 0322bb886b5f9d6198dfa219e6cf71f798d3f43544395a62fdb9f8a31bdc39a7              453 Packages.bz2
+ 3a38bfd1289bb7d71e104bd2e2d3510c0c845df8ea92711ed8ed9ce78a214e48              443 Packages.gz
+ f603ea265f2c0f3077c753c76de45f57429b6a988fc73dd3df258623f4abf8af              508 Packages.xz
+ 04da1811d1a509fd24ebf4227c7fadd778c662e244b5a6b6a5027cd45434cf62              440 Packages.zst
+ 1f157ce3dbbafab2a0e93d13c1bbcb082915625e4316a390e99c61346ac7d6dc              193 Release
+SHA512:
+ f22ec591cd60e782edf697a0d340d0034732dcc8270bdb5df5033d6b64fe52ab3abb4f54a2a346c7280b1c0b554838ca17ed149854533d698289e6a61ad5c755              615 Packages
+ cba5d8aae9d0ad4b3b17b4a024ec42010c7584bc491f99b9d3be15e1d722f5cc0678d394eeb53bd5914ac007c1ebc53489492f9b66aba56c752fc89ca723e8e2              453 Packages.bz2
+ e02eb8986281c45f3a04124cd3ffbf9891c9ba89b26e9f7fcc2520ff7b7d2cd786039ab59ac50c2f34aca24095a3b92000af530313e2810c96c4eae7323cf2f8              443 Packages.gz
+ a76f9025d255d3b2a71c2acbe803aa9441457709ae0b3a99c33d4999d7cfaba988a66fce2fa52f04c2a404a2b74b9e7e88e5751b9b51c3a3ed96c92414c7c58e              508 Packages.xz
+ 28d864888fa1203faf3017adc455c0b07c00435cfddc607b110256926646acab4cd0b4af7434fb9d65e2e958f6baaafeea9249a61d84cdded96d3707dd902d01              440 Packages.zst
+ bae73719ae08f048d5cc06f0fc19ee8b01e1fe06d5f0357538bdbf05f54265fc95adc954bc17bce75a1227e6dfacd07df2eb98358e70778268ce1717852ef0c8              193 Release
