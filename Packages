@@ -5,12 +5,12 @@ Section: Tweaks
 Maintainer: -Fiosone
 Installed-Size: 496
 Depends: mobilesubstrate
-Filename: ./debians/AnemoneHack-iphoneos-arm.deb
-Size: 96432
-MD5sum: 62d27fa030eab2c18beb83ec1ddd19d2
-SHA1: 01f4a94d71f609ec5f410c961be9587a0671518f
-SHA256: 5138c0b94e072e4e0352cc82b0742ad8374d34046e23f61109429d11f8b5c581
-SHA512: b0fb181f35097fca65342f39931815edec6266818ea90c7a6adfc64a7b24e779a70e63388a4858764b6028f686c8133d70f3ddb5280edfebf59d018affcd3232
+Filename: ./debians/anemonehack_0.19.3_iphoneos-arm.deb
+Size: 96614
+MD5sum: 5b1cf4751e7946ac9b12c648d6466a3a
+SHA1: 5338ac2b13e2d3f369a43aef69e54df6853d5bc7
+SHA256: 228a69e6004d2fc458279674f63046d6b95c541e8064074d9596434c29651b8a
+SHA512: 1c7f48588599d3a1015aa79293dc9cdec63654b5db51e5a0bf5d3317165d0db58163c11a8323170121236c5120b49c51cbf02229304a17cb738b334034402a0c
 Homepage: https://discord.gg/f7FCxH3e43
 Description: Anemone By -Fiosone
 Name: Anemone Hack
@@ -24,11 +24,11 @@ Maintainer: -fiosone
 Installed-Size: 452
 Depends: mobilesubstrate
 Filename: ./debians/anemonelegit_0.19.3_iphoneos-arm.deb
-Size: 85140
-MD5sum: 39e7fca2f155fe4af63ba0367fa2fb3f
-SHA1: 1cb8979d4f6a3387b599a4fdfec64acdfc03fa69
-SHA256: d3c45515d169d917eb173766de731bba503f3aace1287622f7f31b7d1deff998
-SHA512: 75158c1988f63537edcf1a22b4b2b284474578c459f847ab7c0d5c3ee2e252a504dc4d1901ec072a759c313404e90f83d287c543f9d7d56f4e5fc7c645027beb
+Size: 84696
+MD5sum: 442f1aeb77066a208a654f8cfce4c5b2
+SHA1: caca3bb0aad3196f4268754b886fb17d1e693b90
+SHA256: 144310be7c9cc364f5c4cd090f904288c582498018ce742589ca299a4720d19c
+SHA512: 820671296291b59a97606db96c93f01181b77aef9f8cbf1df31a76c43fd6b6c5bd99c551167d97fbc76d5cdc9c5736dd88583d7fa08f6492681757c1208f2bf5
 Homepage: https://t.me/anemonehack
 Description: Legit By -fiosone
 Name: Anemone Legit Hack
