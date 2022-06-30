@@ -16,3 +16,21 @@ Description: Anemone By -Fiosone
 Name: Anemone Hack
 Author: -Fiosone
 
+Package: anemonelegit
+Architecture: iphoneos-arm
+Version: 0.19.3
+Section: Tweaks
+Maintainer: -fiosone
+Installed-Size: 452
+Depends: mobilesubstrate
+Filename: ./debians/anemonelegit_0.19.3_iphoneos-arm.deb
+Size: 85140
+MD5sum: 39e7fca2f155fe4af63ba0367fa2fb3f
+SHA1: 1cb8979d4f6a3387b599a4fdfec64acdfc03fa69
+SHA256: d3c45515d169d917eb173766de731bba503f3aace1287622f7f31b7d1deff998
+SHA512: 75158c1988f63537edcf1a22b4b2b284474578c459f847ab7c0d5c3ee2e252a504dc4d1901ec072a759c313404e90f83d287c543f9d7d56f4e5fc7c645027beb
+Homepage: https://t.me/anemonehack
+Description: Legit By -fiosone
+Name: Anemone Legit Hack
+Author: -fiosone
+
