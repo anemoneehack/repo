@@ -1,36 +1,36 @@
 Package: anemonehack
 Architecture: iphoneos-arm
-Version: 0.19.3
-Section: Tweaks
-Maintainer: -Fiosone
-Installed-Size: 496
-Depends: mobilesubstrate
-Filename: ./debians/anemonehack_0.19.3_iphoneos-arm.deb
-Size: 96614
-MD5sum: 5b1cf4751e7946ac9b12c648d6466a3a
-SHA1: 5338ac2b13e2d3f369a43aef69e54df6853d5bc7
-SHA256: 228a69e6004d2fc458279674f63046d6b95c541e8064074d9596434c29651b8a
-SHA512: 1c7f48588599d3a1015aa79293dc9cdec63654b5db51e5a0bf5d3317165d0db58163c11a8323170121236c5120b49c51cbf02229304a17cb738b334034402a0c
-Homepage: https://discord.gg/f7FCxH3e43
-Description: Anemone By -Fiosone
-Name: Anemone Hack
-Author: -Fiosone
-
-Package: anemonelegit
-Architecture: iphoneos-arm
-Version: 0.19.3
+Version: 0.19.4
 Section: Tweaks
 Maintainer: -fiosone
-Installed-Size: 452
+Installed-Size: 1156
 Depends: mobilesubstrate
-Filename: ./debians/anemonelegit_0.19.3_iphoneos-arm.deb
-Size: 84696
-MD5sum: 442f1aeb77066a208a654f8cfce4c5b2
-SHA1: caca3bb0aad3196f4268754b886fb17d1e693b90
-SHA256: 144310be7c9cc364f5c4cd090f904288c582498018ce742589ca299a4720d19c
-SHA512: 820671296291b59a97606db96c93f01181b77aef9f8cbf1df31a76c43fd6b6c5bd99c551167d97fbc76d5cdc9c5736dd88583d7fa08f6492681757c1208f2bf5
+Filename: ./debians/AnemoneHackUpdate-iphoneos-arm.deb
+Size: 492190
+MD5sum: 32335768b1fd8cc0cfc4bf70b18dc0a0
+SHA1: 9b2805b08a09d057aed9011296ed78b2cd5e219d
+SHA256: b6945090f1421b0e4c2b87e55d9fada1324db0850335d123d1ee77e4cabf8fd9
+SHA512: 05e0a791a15f91c35ae24b633bb38d1802c38313c6c6885116b65c7f01eeedd61042eb453acef2b33be5641218d39847f36696d4428b0d29ccb5e32f1aa14b5c
 Homepage: https://t.me/anemonehack
-Description: Legit By -fiosone
-Name: Anemone Legit Hack
+Description: Anemone By -fiosone
+Name: Anemone Hack
+Author: -fiosone
+
+Package: anemoneskin
+Architecture: iphoneos-arm
+Version: 0.19.4
+Section: Tweaks
+Maintainer: -fiosone
+Installed-Size: 700
+Depends: mobilesubstrate
+Filename: ./debians/AnemoneSkinchanger-iphoneos-arm.deb
+Size: 140234
+MD5sum: 51a3952c2edafca377cd2070793f25df
+SHA1: 084407341504072d65a29f6763f1f49026bf50fc
+SHA256: 7a8c08b6547c5530268630551cddb7f956c3aa3b38912ec031fe839a3213cf4e
+SHA512: 9c701b408d2d33c7636a051e551627d9dd527b99765d599ec95a02c49a2d0c49425533236f9a53adabca50aae3e250c1b271397887500178d79938b9a241ce52
+Homepage: https://t.me/anemonehack
+Description: Anemone By -fiosone
+Name: Anemone Skinchanger
 Author: -fiosone
 
